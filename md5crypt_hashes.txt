@@ -1,0 +1,12 @@
+mandyrose:$1$AXkQpCFa$kDEG2XXJpV2dmTZ8SCub5.:1003:1003:,,,:/home/mandyrose:/bin/bash
+sonyadeville:$1$U/Yg2ZCq$LJtkO9Io31eqLggcSymd21:1004:1004:,,,:/home/sonyadeville:/bin/bash
+mickiejames:$1$i1Ci.hwp$PzVoXQqp4dwqdrjgO.5341:1005:1005:,,,:/home/mickiejames:/bin/bash
+undertaker:$1$jnWrDSGR$EqfKT7EvmsIm6EEr3CIBd1:1006:1006:,,,:/home/undertaker:/bin/bash
+dolphziggler:$1$nujempjs$yRCaYrrWfispxFMIYujTB1:1007:1007:,,,:/home/dolphziggler:/bin/bash
+randyorton:$1$gewhx8T6$QaMbFG6yn8Yf5QyZ./07W1:1008:1008:,,,:/home/randyorton:/bin/bash
+brocklesnar:$1$kIMbN6/5$FnwGnfILTDZYZecRGWtQF.:1009:1009:,,,:/home/brocklesnar:/bin/bash
+kevinowens:$1$yJuiQa.L$N0yi9tKHoOpRFVT8d7PmI0:1010:1010:,,,:/home/kevinowens:/bin/bash
+rubyriott:$1$OkgKL/ku$uCcAawCg5ZhAZ48GxBVha0:1011:1011:,,,:/home/rubyriott:/bin/bash
+shanemcmahon:$1$0vgU0gEM$F/WSFxNDI4Ml8zCSt4inv/:1012:1012:,,,:/home/shanemcmahon:/bin/bash
+beckylynch:$1$Os6w5Mjj$nj1G76vpvYYvMYWJDl1me/:1013:1013:,,,:/home/beckylynch:/bin/bash
+bobbyroode:$1$XV7vBCHp$MidzkJpBTa6hssOrojlT7.:1014:1014:,,,:/home/bobbyroode:/bin/bash
